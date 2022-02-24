@@ -1,0 +1,9 @@
+- Importar bibliotecas
+- Declarar local da pasta
+- Criar lista de arquivos
+- Pega a data de criação do arquivo
+
+
+	- Verifica se já existe uma pasta com o nome (data de criação desse arquivo)
+- Cria a pasta caso não exista
+- move o arquivo para a pasta
